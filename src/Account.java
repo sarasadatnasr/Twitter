@@ -1,9 +1,5 @@
-import java.util.Scanner;
-import java.util.List;
 import java.util.ArrayList;
-public class Account{
-public static void Message(String email){
-
-}
-}
-
+import java.util.HashMap;
+import java.util.LinkedList;
+public class Account extends Tools {
+    public Account(String myEmail,String myPassword,String myBio){}}
